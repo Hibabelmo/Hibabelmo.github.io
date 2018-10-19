@@ -1,0 +1,32 @@
+
+
+f{
+	margin-left 200 px;
+}
+h{
+	color : gold;
+	font-size: 10px;
+}
+span {
+	color : gray ;
+}
+a.link{
+	color : pink;
+	font-size: 50px;
+}
+body {
+  margin-left: 200px;
+}
+
+ul.navbar {
+  position: absolute;
+  top: 30px;
+  left: 15px;
+  width: 150px;
+  
+
+  
+a: link
+	color white
+a : visited
+	color white
