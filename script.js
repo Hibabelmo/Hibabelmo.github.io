@@ -37,4 +37,4 @@ function init()
 	};
 
 	document.getElementById("event").addEventListener("mouseover", changeSrc);
-}}
+}
