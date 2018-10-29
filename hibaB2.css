@@ -1,5 +1,12 @@
 
 
+p
+{
+  color :#73264d ;
+  text-decoration: underline;
+   text-shadow: 2px 2px  #d98cb3;
+}
+
 f{
 	margin-left 200 px;
 }
@@ -8,7 +15,7 @@ h{
 	font-size: 10px;
 }
 span {
-	color : gray ;
+	color : blue-gray ;
 }
 a.link{
 	color : pink;
@@ -30,3 +37,5 @@ a: link
 	color white
 a : visited
 	color white
+	
+
